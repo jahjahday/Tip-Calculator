@@ -11,6 +11,7 @@ The designs were created to the following widths:
 
 ### Primary
 
+<<<<<<< HEAD
 - Cyan: hsl(179, 62%, 43%)
 - Bright Yellow: hsl(71, 73%, 54%)
 
@@ -18,14 +19,34 @@ The designs were created to the following widths:
 
 - Light Gray: hsl(204, 43%, 93%)
 - Grayish Blue: hsl(218, 22%, 67%)
+=======
+- Orange: hsl(25, 97%, 53%)
+
+### Neutral
+
+- White: hsl(0, 0%, 100%)
+- Light Grey: hsl(217, 12%, 63%)
+- Medium Grey: hsl(216, 12%, 54%)
+- Dark Blue: hsl(213, 19%, 18%)
+- Very Dark Blue: hsl(216, 12%, 8%)
+>>>>>>> e895ef590e1ecfe82125e38abb541aafeae4fcf0
 
 ## Typography
 
 ### Body Copy
 
+<<<<<<< HEAD
 - Font size: 16px
 
 ### Font
 
 - Family: [Karla](https://fonts.google.com/specimen/Karla)
 - Weights: 400, 700
+=======
+- Font size (paragraph): 15px
+
+### Font
+
+- Family: [Overpass](https://fonts.google.com/specimen/Overpass)
+- Weights: 400, 700
+>>>>>>> e895ef590e1ecfe82125e38abb541aafeae4fcf0
